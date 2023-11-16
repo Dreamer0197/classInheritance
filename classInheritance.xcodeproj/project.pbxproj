@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		8CEBB25B2B05529B00EDA0DA /* classInheritance */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = classInheritance; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CEBB25E2B05529B00EDA0DA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8CEBB2652B0552C800EDA0DA /* classInheritance.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = classInheritance.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8CEBB25E2B05529B00EDA0DA /* main.cpp */,
+				8CEBB2652B0552C800EDA0DA /* classInheritance.h */,
 			);
 			path = classInheritance;
 			sourceTree = "<group>";
